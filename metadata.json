@@ -1,0 +1,6 @@
+{
+  "name": "PGRI Cibuaya",
+  "description": "Aplikasi Web View Resmi untuk mengakses portal web PGRI Cibuaya secara aman dan cepat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
